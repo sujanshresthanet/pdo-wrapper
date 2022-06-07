@@ -70,12 +70,12 @@ Below some examples of the basic functions of the database class. I've included 
 class functions.
 #### The persons table
 | id | firstname | lastname | sex | age
-|:-------:|:-----------:|:------- ---:|:------------:|:------------:|
-| 1       |        John |     Doe     | M | 19
-| 2       |        Bob  |     Black   | M | 41
+|:-----------:|:------------:|:------------:|:------------:|:------------:|
+| 1       |        John |     Doe    | M | 19
+| 2       |        Bob  |     Black    | M | 41
 | 3       |        Zoe  |     Chan    | F | 20
-| 4       |        Josh |     Martin  | M | 14
-| 5       |        Adam |     Rose    | M | 56
+| 4       |        Josh |     Martin    | M | 14
+| 5       |        Adam|     Rose    | M | 56
 
 #### Fetching everything from the table
 ```php
