@@ -1,0 +1,31 @@
+{
+    "name": "sujanshresthanet/pdo-wrapper",
+    "description": "PDO Wrapper",
+    "keywords": [
+        "pdo",
+        "mysql",
+        "php"
+    ],
+    "homepage": "https://github.com/sujanshresthanet/pdo-wrapper",
+    "type": "pdo-extension",
+    "license": "LGPL-3.0",
+    "support": {
+        "issues": "https://github.com/sujanshresthanet/pdo-wrapper/issues",
+        "source": "https://github.com/sujanshresthanet/pdo-wrapper"
+    },
+    "authors": [
+        {
+            "name": "Sujan Shrestha",
+            "role": "lead"
+        }
+    ],
+    "require": {
+        "php":">=7.2"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "sujanshresthanet\\pdo\\": "src/"
+        }
+    }
+}
