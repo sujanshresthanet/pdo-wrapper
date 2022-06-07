@@ -1,3 +1,5 @@
+[![Latest Stable Version](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/v)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper) [![Total Downloads](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/downloads)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper) [![Latest Unstable Version](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/v/unstable)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper) [![License](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/license)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper) [![PHP Version Require](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/require/php)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper) [![Dependents](http://poser.pugx.org/sujanshresthanet/pdo-wrapper/dependents)](https://packagist.org/packages/sujanshresthanet/pdo-wrapper)
+
 PDO Database Class
 ============================
 
